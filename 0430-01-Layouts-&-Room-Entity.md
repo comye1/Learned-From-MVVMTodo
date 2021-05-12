@@ -21,7 +21,7 @@ https://github.com/codinginflow/MVVMTodo
 - CheckBox
 - TextView
   - maxLines
-  - elilipsized="end" **If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle.**
+  - ellipsized="end" **If set, causes words that are longer than the view is wide to be ellipsized instead of broken in the middle.**
 - ImageView
 
 ## fragment_add_edit_task.xml
